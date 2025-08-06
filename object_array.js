@@ -2,6 +2,7 @@ let numbers = [1, 2, 43, 54, 4];
 
 let players = [{}, {}, {}];
 let employee = [
+  //array of object
   { name: "Ashikur Rahman Ahiq", designation: "Content Writer", salary: 25000 },
   { name: "Atikur Rahman", designation: "Web Developer", salary: 27000 },
   { name: "Abdur Rahim", designation: "Digital Marketer", salary: 21000 },
